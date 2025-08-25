@@ -11,7 +11,6 @@ typedef struct array{
 
 void pushArray(Array *a, int val);
 Array arrayInit();
-void printArray(Array *a);
 int returnArrayCap(Array *a);
 int popArray(Array *a);
 #endif
