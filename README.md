@@ -1,4 +1,4 @@
-#dynamic arrays in c - my implementation
+# dynamic arrays in c - my implementation
 
 as the title says, I decided to give it a wack because why not
 
